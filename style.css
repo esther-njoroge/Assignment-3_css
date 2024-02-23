@@ -1,0 +1,38 @@
+#page{  
+    display: grid;grid-template-columns: 50%50%;
+    justify-content: left;
+    display: flex;
+    flex: content;
+}
+.image{
+    height: 800px;
+}
+h1{
+    color:white;
+    font-size: large;
+    font-style: italic;
+}
+.input{
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+#form{
+    border: solid 1px ;
+    margin-left:2%;
+    width: 90%;
+    padding: 32px;
+    height: 60%;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background: lightskyblue;
+    color: white;
+    width: 100%;
+}
+.google{
+    height: 30%;
+    width: 30%;
+    size: 30%;
+}
